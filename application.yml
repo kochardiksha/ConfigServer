@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: development
+    active: dev
 
 message: "hello from config server application.yml"
 
