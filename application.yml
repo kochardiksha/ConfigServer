@@ -2,7 +2,7 @@ spring:
   profiles:
     active: development
 
-message: "hello from application.yml"
+message: "hello from config server application.yml"
 
 eureka:
   instance:
