@@ -1,7 +1,9 @@
-message: "hello from application.yml"
 spring:
   profiles:
     active: dev
+
+message: "hello from application.yml"
+
 eureka:
   instance:
     prefer-ip-address: true
