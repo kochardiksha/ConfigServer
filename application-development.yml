@@ -1,1 +1,5 @@
+spring:
+  application:
+     name: development
+
 message: "hello from development environment"
